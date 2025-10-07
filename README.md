@@ -5,6 +5,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+
+📧 [Correo](mailto:tuemail@ejemplo.com)
+🌐 [Portafolio](https://tusitio.com)
+💼 [LinkedIn](https://www.linkedin.com/in/tuusuario/)
+
 <!--
 **Rayz-git/Rayz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
