@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Banner](https://i.imgur.com/8MupZHY.gif)
 
 <!--
 **Rayz-git/Rayz-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
